@@ -6,7 +6,7 @@
 1. Клонируйте репозиторий:
     ```bash
     git clone https://github.com/travmaxd/lab1.git
-    cd lab1
+    cd lab1/lab01
 
 2. Установите зависимости:
     ```bash
